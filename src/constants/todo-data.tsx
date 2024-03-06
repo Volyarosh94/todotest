@@ -3,56 +3,52 @@ import { ITask } from '../types/task'
 export const todoDataTasks: ITask[] = [
   {
     'id': '1',
-    'title': 'Підготовка до презентації',
-    'description':
-      'Розробити слайди та підготувати виступ для завтрашньої презентації.',
+    'title': 'Preparation for the presentation',
+    'description': 'Develop slides and prepare speech.',
     'isCompleted': true,
   },
   {
     'id': '2',
-    'title': 'Вивчення нового фреймворку',
-    'description':
-      'Дослідження та вивчення можливостей нового фреймворку для проекту.',
+    'title': 'Learning a new framework',
+    'description': 'Research and study the possibilities .',
     'isCompleted': false,
   },
   {
     'id': '3',
-    'title': 'Оптимізація бази даних',
-    'description': 'Виконати оптимізацію запитів .',
+    'title': 'Database optimization',
+    'description': 'Perform query optimization.',
     'isCompleted': true,
   },
 
   {
     'id': '4',
-    'title': 'Розробка нового функціоналу',
-    'description': 'Написання коду для нового функціоналу.',
+    'title': 'Development of new functionality',
+    'description': 'Writing code for new functionality.',
     'isCompleted': false,
   },
   {
     'id': '5',
-    'title': 'Підготовка до презентації',
-    'description':
-      'Розробити слайди та підготувати виступ для завтрашньої презентації.',
+    'title': 'Preparation for the presentation',
+    'description': 'Develop slides and prepare speech .',
     'isCompleted': true,
   },
   {
     'id': '6',
-    'title': 'Вивчення нового фреймворку',
-    'description':
-      'Дослідження та вивчення можливостей нового фреймворку для проекту.',
+    'title': 'Learning a new framework',
+    'description': 'Research and study the possibilities of a new framework .',
     'isCompleted': false,
   },
   {
     'id': '7',
-    'title': 'Оптимізація бази даних',
-    'description': 'Виконати оптимізацію запитів та структури бази даних .',
+    'title': 'Database optimization',
+    'description': 'Perform query optimization.',
     'isCompleted': true,
   },
 
   {
     'id': '8',
-    'title': 'Розробка нового функціоналу',
-    'description': 'Написання коду для нового функціоналу.',
+    'title': 'Development of new functionality',
+    'description': 'Writing code for new functionality.',
     'isCompleted': false,
   },
 ]
