@@ -1,0 +1,26 @@
+.card {
+  width: 300px;
+
+  .cardHeader {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+
+    height: 90px;
+  }
+
+  .statusContainer {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    .statusButton {
+      gap: 10px;
+    }
+  }
+
+  .title {
+    font-size: larger;
+    font-weight: 700;
+  }
+}
